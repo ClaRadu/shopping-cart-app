@@ -1,6 +1,6 @@
 <?php
 // global variables
-$debug = 0; // 1/0 or true/false
+$debug = 1; // 1/0 or true/false
 
 $params = array(
 	'srv' => 'localhost',
