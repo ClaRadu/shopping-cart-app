@@ -1,0 +1,15 @@
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.bat
+
+# info file(s)
+*.txt
+
+# tests folder
+/tst

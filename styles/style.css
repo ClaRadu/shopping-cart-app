@@ -1,0 +1,36 @@
+#black
+{
+	background-color: black;
+	color: white;
+	text-shadow: 1px 1px gray;
+}
+
+.title { font-weight: bold; }
+
+#gray, #ncredit1, #username, #login, #logout, #white
+{
+	color: gray;
+	text-shadow: 1px 1px 2px darkgray;
+}
+
+#logo
+{
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: black;
+	background: linear-gradient(gray, white);
+}
+
+table, td, th
+{
+	border: 1px solid white;
+	padding: 2px;
+}
+
+ul, li
+{
+    background: #cce5ff;
+    margin: 5px;
+}
